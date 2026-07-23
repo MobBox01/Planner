@@ -1,0 +1,15 @@
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\Planner.AssemblyInfoInputs.cache
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\Planner.AssemblyInfo.cs
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\Planner.csproj.CoreCompileInputs.cache
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\Planner.sourcelink.json
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0\Planner.exe
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0\Planner.deps.json
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0\Planner.runtimeconfig.json
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0\Planner.dll
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0\Planner.pdb
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\Planner.dll
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\refint\Planner.dll
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\Planner.pdb
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\Planner.genruntimeconfig.cache
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0\ref\Planner.dll
