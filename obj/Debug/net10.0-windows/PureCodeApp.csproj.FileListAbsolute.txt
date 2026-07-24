@@ -1,0 +1,14 @@
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0-windows\PureCodeApp.exe
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0-windows\PureCodeApp.deps.json
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0-windows\PureCodeApp.runtimeconfig.json
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0-windows\PureCodeApp.dll
+C:\Users\zkase\Desktop\Projects\Planner\bin\Debug\net10.0-windows\PureCodeApp.pdb
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\PureCodeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\PureCodeApp.AssemblyInfoInputs.cache
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\PureCodeApp.AssemblyInfo.cs
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\PureCodeApp.csproj.CoreCompileInputs.cache
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\PureCodeApp.dll
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\refint\PureCodeApp.dll
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\PureCodeApp.pdb
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\PureCodeApp.genruntimeconfig.cache
+C:\Users\zkase\Desktop\Projects\Planner\obj\Debug\net10.0-windows\ref\PureCodeApp.dll

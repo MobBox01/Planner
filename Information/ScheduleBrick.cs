@@ -5,6 +5,7 @@ public class ScheduleBrick
     private string className;
     private string dueDate;
     private string assignmentName;
+    
     public ScheduleBrick(string className,string dueDate,string assignmentName)
     {
         this.className = className;

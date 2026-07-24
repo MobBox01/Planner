@@ -6,8 +6,13 @@ public class BrickList
 
     public BrickList()
     {
-        
+
     }
+    public void RemoveBrick(int index)//Button object here
+    {
+        //If Brick's variable address IS equal to button object, return true
+    }
+    //Each brick will know its index # 
     
 
     private class ListNode<E>
@@ -27,7 +32,7 @@ public class BrickList
             }
         }
 
-        public E Get()
+        public E GetData()
         {
             return data;
         }
@@ -37,5 +42,9 @@ public class BrickList
             return pointer;
         }
 
+        public void Set(ListNode<E> newNode)
+        {
+            pointer = newNode;
+        }
     }
 }
